@@ -1,0 +1,2 @@
+# MagicMethods
+Practicing magic methods
